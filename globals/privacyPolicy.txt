@@ -1,0 +1,8 @@
+our chat service is end to end encrypted, this means that not even Ivula can see your chats.
+For this reason, no chat is monitored. Ivula wont be able to have any control over the chats.
+This comes with risks like conning, or black mail, which Ivula will not take any responsibility
+
+#####################################################################
+
+Deployment dont forgets
+- to clean send_message socket
